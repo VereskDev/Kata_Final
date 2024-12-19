@@ -1,1 +1,1 @@
-https://vereskdev.github.io/Kata-1__final-final/
+https://vereskdev.github.io/Kata_Final/
